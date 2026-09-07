@@ -1,6 +1,6 @@
 {
   "name": "@cct-rip/nestjs-pino-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Структурированное логирование для NestJS поверх pino и pino-http: логгер приложения, автолог HTTP-запросов и request-scope через AsyncLocalStorage",
   "keywords": [
     "nestjs",
